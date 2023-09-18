@@ -3,7 +3,6 @@ import yfinance as yf
 from langchain.agents import AgentType
 from datetime import datetime
 import pandas as pd
-from fuzzywuzzy import fuzz, process
 from langchain.agents import create_pandas_dataframe_agent
 from langchain.llms import OpenAI
 from langchain.chat_models import ChatOpenAI
