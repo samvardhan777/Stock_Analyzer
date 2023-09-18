@@ -34,6 +34,7 @@ StockAnalyzer is a web application for analyzing and visualizing stock market da
 - Use the chatbot to ask questions and analyze stock prices.
 - Explore the various charts and financial data presented in the app.
 
+[![Watch Video](resources/demo_thumbnail.png)](resources/demo.mp4)
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to help improve StockAnalyzer.
